@@ -1,0 +1,15 @@
+C:\Users\Mason\source\repos\ForLoopsAssignment\bin\Debug\net8.0\ForLoopsAssignment.exe
+C:\Users\Mason\source\repos\ForLoopsAssignment\bin\Debug\net8.0\ForLoopsAssignment.deps.json
+C:\Users\Mason\source\repos\ForLoopsAssignment\bin\Debug\net8.0\ForLoopsAssignment.runtimeconfig.json
+C:\Users\Mason\source\repos\ForLoopsAssignment\bin\Debug\net8.0\ForLoopsAssignment.dll
+C:\Users\Mason\source\repos\ForLoopsAssignment\bin\Debug\net8.0\ForLoopsAssignment.pdb
+C:\Users\Mason\source\repos\ForLoopsAssignment\obj\Debug\net8.0\ForLoopsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mason\source\repos\ForLoopsAssignment\obj\Debug\net8.0\ForLoopsAssignment.AssemblyInfoInputs.cache
+C:\Users\Mason\source\repos\ForLoopsAssignment\obj\Debug\net8.0\ForLoopsAssignment.AssemblyInfo.cs
+C:\Users\Mason\source\repos\ForLoopsAssignment\obj\Debug\net8.0\ForLoopsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\ForLoopsAssignment\obj\Debug\net8.0\ForLoopsAssignment.sourcelink.json
+C:\Users\Mason\source\repos\ForLoopsAssignment\obj\Debug\net8.0\ForLoopsAssignment.dll
+C:\Users\Mason\source\repos\ForLoopsAssignment\obj\Debug\net8.0\refint\ForLoopsAssignment.dll
+C:\Users\Mason\source\repos\ForLoopsAssignment\obj\Debug\net8.0\ForLoopsAssignment.pdb
+C:\Users\Mason\source\repos\ForLoopsAssignment\obj\Debug\net8.0\ForLoopsAssignment.genruntimeconfig.cache
+C:\Users\Mason\source\repos\ForLoopsAssignment\obj\Debug\net8.0\ref\ForLoopsAssignment.dll
